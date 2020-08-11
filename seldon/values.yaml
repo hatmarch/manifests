@@ -5,7 +5,7 @@ certManager:
   enabled: true
 controllerId: ''
 crd:
-  create: true
+  create: false
 credentials:
   gcs:
     gcsCredentialFileName: gcloud-application-credentials.json
